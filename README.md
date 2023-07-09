@@ -132,7 +132,7 @@ Additionally, I'm constantly looking for ways to stay up-to-date on current tren
 
 <!-- [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white "Gradle")][repo] -->
 
-## 🛠️ **DEVOPS TOOLS**
+## ☁️ **CLOUDS**
 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
 [![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
