@@ -2,7 +2,7 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taugth FullStack Developer, who specialises in AI and ML Development.**
+**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taugth Data SCientist, who specialises in AI and ML Development.**
 <br/><br/>Aspiring AI and ML Software Engineer, Specializing in Innovative Solutions
 
 I'm an undergrad engineer with a demonstrated history of creating innovative solutions to complex problems. I'm passionate about delivering superior quality products that meet clients needs and exceed expectations.
