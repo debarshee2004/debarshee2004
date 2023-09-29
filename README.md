@@ -2,14 +2,10 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taugth Data SCientist, who specialises in AI and ML Development.**
-<br/><br/>Aspiring AI and ML Software Engineer, Specializing in Innovative Solutions
+**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taugth Data Scientist, who specialises in AI and ML Development.**
+<br/>Aspiring AI and ML Software Engineer, Specializing in Innovative Solutions
 
-I'm an undergrad engineer with a demonstrated history of creating innovative solutions to complex problems. I'm passionate about delivering superior quality products that meet clients needs and exceed expectations.
-
-With my background in engineering, I'm able to leverage my technical knowledge to develop effective solutions that are both efficient and cost-effective. I'm highly adept at using Microsoft software and have extensive experience using various engineering methodologies. I'm also a skilled communicator and collaborator, and I always strive to maintain a positive attitude and to work well with teams of different backgrounds and levels of experience.
-
-Additionally, I'm constantly looking for ways to stay up-to-date on current trends and technologies. I'm a strong believer in continued learning, and I'm always eager to learn new skills and to apply them in innovative ways. I'm dedicated to delivering superior products and results that exceed customer expectations.
+I am a seasoned AI and ML developer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecting scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Science empowers me to extract actionable insights from complex datasets, facilitiating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
 
 # 🚀 **Fun Fact**
 
