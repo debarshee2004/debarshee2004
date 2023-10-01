@@ -2,10 +2,10 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taugth Data Engineer, who specialises in AI and ML Development.**
+**Hello👋👋, My name is Debarshee Chakraborty. I am a self-taught Data Engineer, who specializes in AI and ML Development.**
 <br/>Aspiring AI and ML Software Engineer, Specializing in Innovative Solutions
 
-I am a seasoned AI and ML developer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecting scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Science empowers me to extract actionable insights from complex datasets, facilitiating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
+I am a seasoned AI and ML developer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecting scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Science empowers me to extract actionable insights from complex datasets, facilitating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
 
 # 🚀 **Fun Fact**
 
