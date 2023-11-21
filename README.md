@@ -2,16 +2,16 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty.** I am a seasoned Data Engineer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecting scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Engineer empowers me to extract actionable insights from complex datasets, facilitating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
+**Hello👋👋, My name is Debarshee Chakraborty.** I am a seasoned Data Engineer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecture scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Engineer empowers me to extract actionable insights from complex datasets, facilitating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
 
 # 🚀 **Fun Fact**
 
 <img align="left" height="90" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
-• 🔭 I’m currently working on **Something Cool**! <br/>
-• 👯 I’m looking to collaborate on **Cool Project**.<br/>
-• 💬 Ask me about **Data Engineering**.<br/>
-• 📫 Reach me out at [**Linkedin**](https://www.linkedin.com/in/debarshee-chakraborty-a88b47266/)<br/>
+- 🔭 I’m currently working on **Something Cool**! <br/>
+- 👯 I’m looking to collaborate on **Cool Project**.<br/>
+- 💬 Ask me about **Data Engineering**.<br/>
+- 📫 Reach me out, on my **Socials.**<br/>
 
 # 🌏 **Connect with me**
 
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-# Languages🎓
+# 🎓Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -45,7 +45,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# Data Engineering👨‍🔬
+# 👨‍🔬Data Engineering
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -58,51 +58,51 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-# Development🌐
+# 🌐Development
 
-## Frontend
+## 📺Frontend
 
-### Web Framework🎬
+### 🎬Web Framework
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Cross-Platform Mobile📱
+### 📱Cross-Platform
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### UI Frameworks🎨
+### 🎨UI Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
-## Backend
+## ⛽Backend
 
-### Runtime🏃‍♀️
+### 🏃‍♀️Runtime
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Databases🥫
+### 🥫Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Cloud💭
+# 💭Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-# Text Editor/Cloud IDE💻
+# 💻Text Editor/Cloud IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -113,7 +113,7 @@
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)
 
-# Version Control🎥
+# 🎥Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
