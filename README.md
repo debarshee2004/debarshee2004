@@ -2,7 +2,9 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty.** I am a seasoned Data Engineer with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecture scalable and efficient solution an platforms like AWS and GCP. My proficiency in Data Engineer empowers me to extract actionable insights from complex datasets, facilitating data-driven decision-making. Equipped with a versatile skill set in Python, Java, and C. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
+**Hello👋👋, My name is Debarshee Chakraborty.** I am a seasoned Data Scientist with a passion for harnessing cutting-edge technology to drive innovation. With extensive expertise in cloud computing, I excel in architecture scalable and efficient solution an platforms like AWS, Azure and GCP.
+
+My proficiency in Data Scientist empowers me to extract actionable insights from complex datasets, facilitating data-driven decision-making. Equipped with a versatile skill set in Python, JavaScript, C, C++ and Java. I thrive in diverse programming landscapes. Committed to stay at the forefront of technological advancements, I am dedicated to crafting intelligent solutions that transform businesses and enhance user experience.
 
 # 🚀 **Fun Fact**
 
@@ -45,7 +47,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# 👨‍🔬Data Engineering
+# 👨‍🔬Data Science
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
