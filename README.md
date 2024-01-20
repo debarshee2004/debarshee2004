@@ -15,6 +15,11 @@ My proficiency in Data Scientist empowers me to extract actionable insights from
 - 💬 Ask me about **Data Engineering**.<br/>
 - 📫 Reach me out, on my **Socials.**<br/>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/debarshee2004/count.svg" />
+</p>
+
 # 🌏 **Connect with me**
 
 <a href="https://www.instagram.com/dino04.ai/"> 
