@@ -1,4 +1,4 @@
-![Logo](display.png)
+![LinedIn Banner](https://github.com/debarshee2004/debarshee2004/assets/129538241/fc622202-e1ea-4880-b85c-7c779ecf4a06)
 
 <br />
 
