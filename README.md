@@ -1,10 +1,8 @@
-![LinedIn Banner](https://github.com/debarshee2004/debarshee2004/assets/129538241/fc622202-e1ea-4880-b85c-7c779ecf4a06)
+![LinedIn Banner](https://github.com/debarshee2004/debarshee2004/assets/129538241/1f5bfd75-8a9c-45b6-ab7a-7ee9affe2a70)
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty.** I am a dedicated Data Science Advocate, I am passionate about leveraging data-driven approaches to empower businesses and drive innovation. With a strong foundation in data science techniques, methodologies, and tools, I bring 1 years of experience in designing, implementing, and optimizing machine learning models and algorithms to extract actionable insights and solve complex business challenges.
-
-My expertise spans a wide range of domains including but not limited to predictive modeling, statistical analysis, optimization, and data engineering. I am proficient in utilizing languages such as Python, SQL, and R, along with a robust understanding of data visualization techniques and tools. Additionally, I possess advanced skills in implementing solutions on large-scale platforms such as Azure and have a proven track record of collaborating with cross-functional teams to deliver impactful results.
+**Hello👋👋, My name is Debarshee Chakraborty.** As a dedicated Machine Learning Engineer, I am passionate about leveraging data-driven approaches to empower businesses and drive innovation. With a strong foundation in data science techniques, methodologies, and tools, I bring 1 years of experience in designing, implementing, and optimizing machine learning models and algorithms to extract actionable insights and solve complex business challenges.
 
 # 🚀 **Fun Fact**
 
@@ -38,8 +36,6 @@ My expertise spans a wide range of domains including but not limited to predicti
 # 🎓Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
