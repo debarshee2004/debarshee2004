@@ -2,7 +2,9 @@
 
 <br />
 
-**Hello👋👋, My name is Debarshee Chakraborty.** As a dedicated Machine Learning Engineer, I am passionate about leveraging data-driven approaches to empower businesses and drive innovation. With a strong foundation in data science techniques, methodologies, and tools, I bring 1 years of experience in designing, implementing, and optimizing machine learning models and algorithms to extract actionable insights and solve complex business challenges.
+**Hello👋👋, My name is Debarshee Chakraborty.** GDG Cloud Kolkata Core Member | Backend and ML Engineer | GDG on Campus AOT Organizer | CNCF Durgapur Organizer
+
+Hi, I’m Debarshee — a backend developer with 2+ years of experience architecting scalable, resilient APIs and microservices using Go, Java, JavaScript, and Python. I specialize in building robust backend systems, optimizing critical infrastructure, and deploying cloud-native solutions using AWS, GCP, Docker, and GitHub Actions.
 
 ## 🚀 **Fun Fact**
 
@@ -10,7 +12,7 @@
 
 - 🔭 I’m currently working on **Something Cool**! <br/>
 - 👯 I’m looking to collaborate on **Cool Project**.<br/>
-- 💬 Ask me about **Data Engineering**.<br/>
+- 💬 Ask me about **Backend, DevOps and AI-ML**.<br/>
 - 📫 Reach me out, on my **Socials.**<br/>
 
 ## 🌏 **Connect with me**
