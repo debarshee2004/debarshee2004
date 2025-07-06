@@ -8,8 +8,6 @@ Hi, I’m Debarshee — a backend developer with 2+ years of experience architec
 
 ## 🚀 **Fun Fact**
 
-<img align="left" height="90" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
-
 - 🔭 I’m currently working on **Something Cool**! <br/>
 - 👯 I’m looking to collaborate on **Cool Project**.<br/>
 - 💬 Ask me about **Backend, DevOps and AI-ML**.<br/>
