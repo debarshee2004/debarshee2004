@@ -6,12 +6,12 @@
 
 Hi, I’m Debarshee — a backend developer with 2+ years of experience architecting scalable, resilient APIs and microservices using Go, Java, JavaScript, and Python. I specialize in building robust backend systems, optimizing critical infrastructure, and deploying cloud-native solutions using AWS, GCP, Docker, and GitHub Actions.
 
-## 🚀 **Fun Fact**
+<!-- ## 🚀 **Fun Fact**
 
 - 🔭 I’m currently working on **Something Cool**! <br/>
 - 👯 I’m looking to collaborate on **Cool Project**.<br/>
 - 💬 Ask me about **Backend, DevOps and AI-ML**.<br/>
-- 📫 Reach me out, on my **Socials.**<br/>
+- 📫 Reach me out, on my **Socials.**<br/> -->
 
 ## 🌏 **Connect with me**
 
