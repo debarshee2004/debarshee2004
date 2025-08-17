@@ -1,6 +1,6 @@
-![LinedIn Banner](https://github.com/debarshee2004/debarshee2004/assets/129538241/1f5bfd75-8a9c-45b6-ab7a-7ee9affe2a70)
+<!-- ![LinedIn Banner](https://github.com/debarshee2004/debarshee2004/assets/129538241/1f5bfd75-8a9c-45b6-ab7a-7ee9affe2a70)
 
-<br />
+<br /> -->
 
 **Hello👋👋, My name is Debarshee Chakraborty.** GDG Cloud Kolkata Core Member | Backend and ML Engineer | GDG on Campus AOT Organizer | CNCF Durgapur Organizer
 
